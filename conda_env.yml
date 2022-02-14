@@ -1,0 +1,20 @@
+name: att_caption_gen_env
+channels:
+  - defaults
+dependencies:
+  - gast=0.3.3
+  - ipykernel
+  - keras
+  - matplotlib
+  - nb_conda_kernels
+  - nltk
+  - notebook
+  - numpy
+  - pandas
+  - pillow
+  - python
+  - regex
+  - scikit-learn
+  - tensorflow
+  - tqdm
+prefix: C:\Users\yannusinovich\anaconda3\envs\att_caption_gen_env
