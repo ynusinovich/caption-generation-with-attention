@@ -1,4 +1,4 @@
-# Image Caption Generator Using the Attention Mechanism.
+# Image Caption Generator Using the Attention Mechanism
 
 Code based on this guide, with some modifications:
 https://www.analyticsvidhya.com/blog/2020/11/attention-mechanism-for-caption-generation/.
